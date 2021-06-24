@@ -74,7 +74,7 @@
     "@nguniversal/express-engine": "^7.1.1",
     "@nguniversal/module-map-ngfactory-loader": "0.0.0",
     "@nrwl/angular": "8.1.2",
-    "@types/mongoose": "^5.3.17",
+    "@types/mongoose": "^5.11.96",
     "api-query-params": "^4.9.0",
     "body-parser": "^1.18.3",
     "bootstrap": "^4.1.3",
